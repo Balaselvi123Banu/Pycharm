@@ -1,4 +1,3 @@
-Hi i am balaselvi
 import random as r # importing random to generate a random word
 from flask import *
 import PyDictionary
